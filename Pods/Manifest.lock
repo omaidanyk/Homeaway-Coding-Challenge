@@ -1,0 +1,22 @@
+PODS:
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - SwiftLint (0.27.0)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NVActivityIndicatorView
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+
+PODFILE CHECKSUM: 6a453bc362343d61b2105627ebc6a22fd48294ff
+
+COCOAPODS: 1.6.0
